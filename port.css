@@ -395,6 +395,9 @@ section .title::after{
 .skills-content .right .visualization::before{
     width: 100%;
 }
+.skills-content .right .libraries::before{
+    width: 100%;
+}
 .skills-content .right .database::before{
     width: 100%;
 }
