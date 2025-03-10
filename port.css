@@ -318,6 +318,9 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 
+
+
+
 /* skills section styling */
 
 .skills .title::after{
@@ -380,9 +383,22 @@ section .title::after{
 .skills-content .right .language::before{
     width: 100%;
 }
+.skills-content .right .LIB::before{
+    width: 100%;
+}
+.skills-content .right .DS::before{
+    width: 100%;
+}
 .skills-content .right .tools::before{
     width: 100%;
 }
+.skills-content .right .MLOps::before{
+    width: 100%;
+}
+
+
+
+
 .skills-content .right .data::before{
     width: 100%;
 }
